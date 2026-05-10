@@ -180,7 +180,8 @@ This feature captures depreciation and buyer preference for newer houses, which 
 
 ### Final Professional Dashboard
 
-![Dashboard](week3_dashboard.png)
+<img width="1587" height="1787" alt="image" src="https://github.com/user-attachments/assets/8bc16936-19cd-4f18-bde9-ad7ec0f2eeb2" />
+
 
 ---
 
